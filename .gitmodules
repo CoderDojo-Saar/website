@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/twentysixteen-child"]
+	path = wp-content/themes/twentysixteen-child
+	url = https://github.com/CoderDojo-Saar/wp-theme.git
